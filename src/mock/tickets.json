@@ -1,0 +1,72 @@
+[
+  {
+   "id":0,
+    "machine_id": 0,
+    "issue_type": 1,
+    "issue_description": "随便",
+    "issue_time": "1996-11-20" ,
+    "issue_img": null,
+    "resolve_method": "爆杀",
+    "resolve_time": "2023-1-19"
+  },
+  {
+    "id":1,
+     "machine_id": 1,
+     "issue_type": 2,
+     "issue_description": "用手",
+     "issue_time": "2021-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2023-1-19"
+   },
+   {
+    "id":2,
+     "machine_id": 2,
+     "issue_type": 3,
+     "issue_description": "开挂",
+     "issue_time": "2023-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2050-5-25"
+   },
+   {
+    "id":3,
+     "machine_id": 3,
+     "issue_type": 3,
+     "issue_description": "开挂",
+     "issue_time": "2023-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2050-5-25"
+   },
+   {
+    "id":4,
+     "machine_id": 4,
+     "issue_type": 3,
+     "issue_description": "开挂",
+     "issue_time": "2023-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2050-5-25"
+   },
+   {
+    "id":5,
+     "machine_id": 4,
+     "issue_type": 3,
+     "issue_description": "开挂",
+     "issue_time": "2023-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2050-5-25"
+   },
+   {
+    "id":6,
+     "machine_id": 4,
+     "issue_type": 3,
+     "issue_description": "开挂",
+     "issue_time": "2023-11-20" ,
+     "issue_img": null,
+     "resolve_method": "爆杀",
+     "resolve_time": "2050-5-25"
+   }
+]
